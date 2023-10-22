@@ -36,7 +36,7 @@
       }, 
        "STRING_SESSION": {
          "description": "Your Pyrogram Session For Music Bot.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "SQLALCHEMY_DATABASE_URI": {
